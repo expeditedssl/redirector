@@ -5,3 +5,4 @@ Bundler.require
 
 require './redirector'
 run RedirectorApp
+
